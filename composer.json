@@ -1,5 +1,5 @@
 {
-    "name": "Javan/form-builder",
+    "name": "Javan/LaravelFormBuilder",
     "description": "Laravel form builder - symfony like",
     "license": "MIT",
     "authors": [
